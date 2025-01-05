@@ -18,6 +18,6 @@ Advisors:
 
 ## Main Design Goals
 
-- Multi-floor localisation and navegation
+- Multi-floor localization and navigation
 - Natural language processing for human interaction
 - Interaction with elevators
